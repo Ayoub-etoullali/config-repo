@@ -6,4 +6,4 @@ Ce projet est une application de gestion bancaire qui utilise une architecture Ã
 ## Consul
 ![image](https://github.com/Ayoub-etoullali/config-repo/assets/92756846/7b49c7a7-cb5d-4fb6-9da6-8e114fa97262)
 
-![TP3 - Parallel Processing BigData](https://github.com/Ayoub-etoullali/Practical-Activities-Parallel-Processing-BigData)
+[TP3 - Parallel Processing BigData](https://github.com/Ayoub-etoullali/Practical-Activities-Parallel-Processing-BigData)
